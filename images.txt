@@ -1,3 +1,2 @@
---platform=linux/arm64 mongodb/mongodb-community-server:4.4.29-ubuntu2004
---platform=linux/arm64 python:3.8.19-slim-bullseye
---platform=linux/arm64 python:3.10.14-slim-bullseye
+--platform=linux/arm64 redis:7.0.10-alpine3.17
+--platform=linux/arm64 redis:7.0.10-bullseye
