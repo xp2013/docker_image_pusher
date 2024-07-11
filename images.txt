@@ -1,1 +1,2 @@
---platform=linux/arm64 mongodb/mongodb-community-server:4.4.25
+--platform=linux/arm64 mongodb-community-server:4.4.25-ubuntu2004-20240510T083418Z
+--platform=linux/arm64 mongodb-community-server
