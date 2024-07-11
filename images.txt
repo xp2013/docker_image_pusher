@@ -1,2 +1,1 @@
---platform=linux/arm64 redis:7.0.10-alpine3.17
---platform=linux/arm64 redis:7.0.10-bullseye
+--platform=linux/arm64 mongodb/mongodb-community-server:4.4.25-ubuntu2004
