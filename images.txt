@@ -1,4 +1,4 @@
 --platform=linux/arm64 mongo:5.0.28-rc0
---platform=linux/arm64 arm64v8/mongo:6.0.16
---platform=linux/arm64 arm64v8/mongo:7.0.12
---platform=linux/arm64 arm64v8/mongo:8.0-rc-jammy
+--platform=linux/arm64 mongo:6.0.16
+--platform=linux/arm64 mongo:7.0.12
+--platform=linux/arm64 mongo:8.0-rc-jammy
