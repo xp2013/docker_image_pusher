@@ -1,1 +1,2 @@
- arm64v8/mongo:5.0.27
+python:2.7.18-slim-buster
+python:2.7.18-alpine3.11
