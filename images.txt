@@ -1,1 +1,1 @@
- thinkst/opencanary:0.9.3
+mongo:4.4.29
