@@ -1,1 +1,1 @@
-getmeili/meilisearch:v1.9
+nvidia/cuda:10.0-base-ubuntu18.04
