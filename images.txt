@@ -1,4 +1,1 @@
-nvidia/cuda:11.6.1-devel-ubuntu20.04
-nvidia/cuda:11.6.1-base-ubuntu20.04
-nvidia/cuda:11.0.3-devel-ubuntu20.04
-nvidia/cuda:11.0.3-base-ubuntu20.04
+istio/pilot:1.15.7
