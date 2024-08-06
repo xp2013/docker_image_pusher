@@ -1,1 +1,2 @@
-istio/pilot:1.15.7
+--platform=linux/arm64 istio/pilot:1.15.7
+--platform=linux/arm64 istio/pilot:1.15.4
