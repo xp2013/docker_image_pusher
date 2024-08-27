@@ -1,2 +1,2 @@
---platform=linux/arm64 istio/pilot:1.15.7
---platform=linux/arm64 istio/pilot:1.15.4
+redis:7.4
+# --platform=linux/arm64 istio/pilot:1.15.4
