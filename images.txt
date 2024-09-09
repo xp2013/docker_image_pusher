@@ -1,2 +1,2 @@
-redis:7.4
+ubuntu/python:3.10-22.04_stable
 # --platform=linux/arm64 istio/pilot:1.15.4
