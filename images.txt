@@ -1,3 +1,2 @@
-python:3.12.6-slim-bullseye
-python:3.12.6-alpine3.20
+fauria/vsftpd
 # --platform=linux/arm64 istio/pilot:1.15.4
