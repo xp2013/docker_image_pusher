@@ -1,3 +1,4 @@
-xuxuclassmate/highgo:latest
+mysql:5.7.44
+
 
 #--platform=linux/arm64 ubuntu:22.04
