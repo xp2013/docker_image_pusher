@@ -1,5 +1,4 @@
-nginx:1.26.2-alpine3.20-perl
-
+nginx:1.26.2-alpine3.20-slim
 
 #--platform=linux/arm64 cephcsi:v3.4.0
 
