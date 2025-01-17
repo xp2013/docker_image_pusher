@@ -1,7 +1,4 @@
---platform=linux/arm64 istio/pilot:1.15.7
---platform=linux/arm64 istio/proxyv2:1.15.7
-
-
+python:3.8.20-alpine3.20
 
 
 
