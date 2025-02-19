@@ -1,4 +1,4 @@
-uozi/nginx-ui
+ollama/ollama
 
 
 #--platform=linux/arm64 cephcsi:v3.4.0
