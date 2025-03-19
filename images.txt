@@ -1,4 +1,4 @@
-ollama/ollama
+--platform=linux/arm64 python:3.10.16-alpine3.20
 
 
 #--platform=linux/arm64 cephcsi:v3.4.0
